@@ -10,3 +10,6 @@ Pillow>=9.0.0
 kagglehub>=0.1.0
 jupyter>=1.0.0
 notebook>=6.4.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
